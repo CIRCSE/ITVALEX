@@ -2,9 +2,9 @@
 
 Website: [https://itreebank.marginalia.it/itvalex/](https://itreebank.marginalia.it/itvalex/)
 
-IT-VaLex is a collection of verbal lexical entries enhanced with valency and subcategorization frames at syntactic level. IT-VaLex is closely related to the [Index Thomisticus Treebank](https://itreebank.marginalia.it/), since it is a corpus-driven valency lexicon automatically induced from the syntactic layer of annotation of the Index Thomisticus Treebank. In the Index Thomisticus Treebank annotation style, verbal arguments are those assigned the following tags: Sb (Subject), Obj (Object), OComp (Object Complement) and Pnom (Predicate Nominal).
+IT-VaLex is a collection of verbal lexical entries enhanced with valency and subcategorization frames at a syntactic level. IT-VaLex is closely related to the [Index Thomisticus Treebank](https://itreebank.marginalia.it/), since it is a corpus-driven valency lexicon automatically induced from the syntactic layer of annotation of the Index Thomisticus Treebank. In the Index Thomisticus Treebank annotation style, verbal arguments are those to which the following tags are assigned: `Sb` (Subject), `Obj` (Object), `OComp` (Object Complement) and `Pnom` (Predicate Nominal).
 
-The difference between IT-VaLex and the valency lexicon Latin-VALLEX is that the former derives from the syntactically annotated data of the Index Thomisticus Treebank, the latter is connected with the semantic/pragmatic annotation of both the Latin treebanks (plus a number of hard-coded entries).
+The difference between IT-VaLex and the valency lexicon _Latin-VALLEX_ is that the former is derived from the syntactically annotated data of the Index Thomisticus Treebank, while the latter is connected to the semantic/pragmatic annotation of both Latin treebanks (plus a number of hard-coded entries).
 
 <!--Support (MySQL) database for *Index Thomisticus* Valency Lexicon.-->
 
