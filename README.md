@@ -10,13 +10,12 @@ The difference between IT-VaLex and the valency lexicon _Latin-VALLEX_ is that t
 
 ## About
 
-To cite all versions of IT-VaLex, you can adapt the following:
+To cite IT-VaLex (first release), you can adapt the following:
 
->Marco Passarotti, Paolo Ruffolo, Barbara McGillivray (2018) *IT-VaLex*. DOI: https://doi.org/10.5281/zenodo.1492152
+>Marco Passarotti, Paolo Ruffolo, Barbara McGillivray (2018) *IT-VaLex*. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1492219.svg)](https://doi.org/10.5281/zenodo.1492219)
 
-DOIs for the individual releases of IT-VaLex are available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1492152.svg)](https://doi.org/10.5281/zenodo.1492152)
+To cite **all versions/releases** of IT-VaLex use DOI: https://doi.org/10.5281/zenodo.1492152 
 
 Paper to cite:
 
-McGillivray Barbara, Passarotti Marco. 2009. [The Development of the Index Thomisticus Treebank Valency Lexicon](https://aclanthology.info/pdf/W/W09/W09-0306.pdf). In Proceedings of LaTeCH-SHELT&R Workshop 2009, Athens, March 30, 2009, pp. 43-50.
-
+McGillivray Barbara, Passarotti Marco. 2009. '[The Development of the Index Thomisticus Treebank Valency Lexicon](https://aclanthology.info/pdf/W/W09/W09-0306.pdf)', In Proceedings of LaTeCH-SHELT&R Workshop 2009, Athens, March 30, 2009, pp. 43-50.
